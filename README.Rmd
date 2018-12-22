@@ -1,0 +1,58 @@
+---
+output:
+  github_document:
+    toc: true 
+    toc_depth: 3
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+## Evaluaciones del curso Instroducción al software estadístico R (`IntRo`) 
+
+Este curso se dicta regularmente en la Facultad de Ciencias Sociales de la Universidad de la República (Montevideo, Uruguay). Desde [este](https://github.com/Nicolas-Schmidt/IntRo) link se puede acceder al respositorio del curso. Lo que se presenta a continuación son las evaluaciones que los estudiantes realizán sobre el curso una vez finalizado el mismo.
+
+La evaluaciones son anónimas y los estudiantes las realizán antes de saber la nota final del curso y los resultados son enviados al docente del curso una vez que las notas ya fueron entregadas. Las escalas de las preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el número en la respuesta,  mayor es la satisfacción del estudiante sobre el aspecto del que se pregunta.
+
+### Curso 1.
+
+Al primer curso se anotaron 19 estudiante de los cuales 4 nunca concurrieron. Los 15 restantes completaron el curso. De estos 15 estudiantes 12 completaron la evaluación del curso.
+
+```{r echo=FALSE}
+eval <- readxl::read_excel("eval.xlsx")
+names(eval) <- stringr::str_extract(names(eval), "(?=¿).*")
+eval <- eval[!is.na(names(eval))]
+escala <- c("-", "1 a 5", "1 a 5", "1 a 10", "1 a 5", 
+            "1 a 5", "-", "-", "1 a 5", "1 a 5", 
+            "1 a 5", "1 a 5", "1 a 5", "1 a 5", 
+            "1 a 5", "1 a 5", "1 a 5", "-")
+preguntas <- data.frame(Pregunta = names(eval), 
+                        Escala = escala, 
+                        p = 1:ncol(eval), stringsAsFactors = FALSE)
+names(eval) <- paste0("p", 1:ncol(eval))
+vec <- ifelse(preguntas[,2]=="-", FALSE, TRUE)
+out <- function(x){
+        r <- apply(x, 2, range)
+        data.frame(media = round(apply(x, 2, mean),2), 
+                   min = r[1,], 
+                   max = r[2,],
+                   id = colnames(r), 
+                   row.names = NULL, 
+                   stringsAsFactors = FALSE)
+}
+tab <- merge(cbind(preguntas, id = paste0("p", 1:nrow(preguntas))), 
+             out(eval[vec]), by = "id")
+tab <- tab[order(tab$p),-c(1,4)]
+rownames(tab) <- NULL
+```
+__Resultados__
+```{r echo = FALSE}
+knitr::kable(tab)
+```
+
+
+
+
+
+
+
+
