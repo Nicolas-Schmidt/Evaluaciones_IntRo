@@ -9,9 +9,9 @@ output:
 
 ## Evaluaciones del curso Instroducción al software estadístico R (`IntRo`) 
 
-Este curso se dicta regularmente en la Facultad de Ciencias Sociales de la Universidad de la República (Montevideo, Uruguay). Desde [este](https://github.com/Nicolas-Schmidt/IntRo) link se puede acceder al respositorio del curso. Lo que se presenta a continuación son las evaluaciones que los estudiantes realizán sobre el curso una vez finalizado el mismo.
+Este curso se dicta regularmente en la Facultad de Ciencias Sociales de la Universidad de la República (Montevideo, Uruguay). Desde [este](https://github.com/Nicolas-Schmidt/IntRo) link se puede acceder al respositorio del curso. Lo que se presenta a continuación son las evaluaciones que los estudiantes realizan sobre el curso una vez finalizado.
 
-La evaluaciones son anónimas y los estudiantes las realizán antes de saber la nota final del curso y los resultados son enviados al docente del curso una vez que las notas ya fueron entregadas. Las escalas de las preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el número en la respuesta,  mayor es la satisfacción del estudiante sobre el aspecto del que se pregunta.
+La evaluaciones son anónimas y los estudiantes las realizan antes de saber la nota final del curso y los resultados son enviados al docente del curso una vez que las notas ya fueron entregadas. Las escalas de las preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el número en la respuesta,  mayor es la satisfacción del estudiante sobre el aspecto del que se pregunta.
 
 ### Curso 1.
 
@@ -48,6 +48,20 @@ __Resultados__
 ```{r echo = FALSE}
 knitr::kable(tab)
 ```
+
+
+
+__Entrega de los ejercicios__
+
+El curso tiene dos modalidades para transitarlo. Es posible que el estudiante solo quiera concurrir a las clases y obtrener un certificado de asistencia (al menos el 80% de las clases) o puede aprobar el curso realizando los ejerccios que están previstos en el curso y que se hacen utilizando el paquete credo especialmente para ello. En tal sentido, cobra relevancia saber la cantidad de estudiantes que avanzaron por el camino de realizar los ejercicios y utilizar el paquete del curso.
+
+
+```{r echo = FALSE}
+tab2 <-matrix(c("73%", "63%"), dimnames = list(c("Curso 1", "Curso 2"), "Realizaron evaluación"))
+knitr::kable(tab2)
+```
+
+
 
 
 

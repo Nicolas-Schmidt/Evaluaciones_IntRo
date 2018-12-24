@@ -7,10 +7,10 @@ Este curso se dicta regularmente en la Facultad de Ciencias Sociales de
 la Universidad de la República (Montevideo, Uruguay). Desde
 [este](https://github.com/Nicolas-Schmidt/IntRo) link se puede acceder
 al respositorio del curso. Lo que se presenta a continuación son las
-evaluaciones que los estudiantes realizán sobre el curso una vez
-finalizado el mismo.
+evaluaciones que los estudiantes realizan sobre el curso una vez
+finalizado.
 
-La evaluaciones son anónimas y los estudiantes las realizán antes de
+La evaluaciones son anónimas y los estudiantes las realizan antes de
 saber la nota final del curso y los resultados son enviados al docente
 del curso una vez que las notas ya fueron entregadas. Las escalas de las
 preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el
@@ -42,3 +42,18 @@ curso.
 | ¿Se utilizaron ejemplos útiles y pertinentes para ilustrar los conceptos teóricos?         | 1 a 5  |  4.42 |   3 |   5 |
 | ¿Hubo receptividad ante dudas e inquietudes de las/os estudiantes?                         | 1 a 5  |  4.92 |   4 |   5 |
 | ¿Los/as docentes dominan los contenidos del curso?                                         | 1 a 5  |  5.00 |   5 |   5 |
+
+**Entrega de los ejercicios**
+
+El curso tiene dos modalidades para transitarlo. Es posible que el
+estudiante solo quiera concurrir a las clases y obtrener un certificado
+de asistencia (al menos el 80% de las clases) o puede aprobar el curso
+realizando los ejerccios que están previstos en el curso y que se hacen
+utilizando el paquete credo especialmente para ello. En tal sentido,
+cobra relevancia saber la cantidad de estudiantes que avanzaron por el
+camino de realizar los ejercicios y utilizar el paquete del curso.
+
+|         | Realizaron evaluación |
+| ------- | :-------------------- |
+| Curso 1 | 73%                   |
+| Curso 2 | 63%                   |
