@@ -17,7 +17,7 @@ preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el
 número en la respuesta, mayor es la satisfacción del estudiante sobre
 el aspecto del que se pregunta.
 
-### Curso 1.
+### Primera edición del curso.
 
 Al primer curso se anotaron 19 estudiante de los cuales 4 nunca
 concurrieron. Los 15 restantes completaron el curso. De estos 15
@@ -49,11 +49,11 @@ El curso tiene dos modalidades para transitarlo. Es posible que el
 estudiante solo quiera concurrir a las clases y obtrener un certificado
 de asistencia (al menos el 80% de las clases) o puede aprobar el curso
 realizando los ejerccios que están previstos en el curso y que se hacen
-utilizando el paquete credo especialmente para ello. En tal sentido,
+utilizando el paquete creado especialmente para ello. En tal sentido,
 cobra relevancia saber la cantidad de estudiantes que avanzaron por el
 camino de realizar los ejercicios y utilizar el paquete del curso.
 
-|         | Realizaron evaluación |
-| ------- | :-------------------- |
-| Curso 1 | 73%                   |
-| Curso 2 | 63%                   |
+|           | Realizaron evaluación |
+| --------- | :-------------------- |
+| Edición 1 | 73%                   |
+| Edición 2 | 63%                   |

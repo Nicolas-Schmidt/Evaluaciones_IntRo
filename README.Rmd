@@ -13,7 +13,7 @@ Este curso se dicta regularmente en la Facultad de Ciencias Sociales de la Unive
 
 La evaluaciones son anónimas y los estudiantes las realizan antes de saber la nota final del curso y los resultados son enviados al docente del curso una vez que las notas ya fueron entregadas. Las escalas de las preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el número en la respuesta,  mayor es la satisfacción del estudiante sobre el aspecto del que se pregunta.
 
-### Curso 1.
+### Primera edición del curso.
 
 Al primer curso se anotaron 19 estudiante de los cuales 4 nunca concurrieron. Los 15 restantes completaron el curso. De estos 15 estudiantes 12 completaron la evaluación del curso.
 
@@ -53,11 +53,11 @@ knitr::kable(tab)
 
 __Entrega de los ejercicios__
 
-El curso tiene dos modalidades para transitarlo. Es posible que el estudiante solo quiera concurrir a las clases y obtrener un certificado de asistencia (al menos el 80% de las clases) o puede aprobar el curso realizando los ejerccios que están previstos en el curso y que se hacen utilizando el paquete credo especialmente para ello. En tal sentido, cobra relevancia saber la cantidad de estudiantes que avanzaron por el camino de realizar los ejercicios y utilizar el paquete del curso.
+El curso tiene dos modalidades para transitarlo. Es posible que el estudiante solo quiera concurrir a las clases y obtrener un certificado de asistencia (al menos el 80% de las clases) o puede aprobar el curso realizando los ejerccios que están previstos en el curso y que se hacen utilizando el paquete creado especialmente para ello. En tal sentido, cobra relevancia saber la cantidad de estudiantes que avanzaron por el camino de realizar los ejercicios y utilizar el paquete del curso.
 
 
 ```{r echo = FALSE}
-tab2 <-matrix(c("73%", "63%"), dimnames = list(c("Curso 1", "Curso 2"), "Realizaron evaluación"))
+tab2 <-matrix(c("73%", "63%"), dimnames = list(c("Edición 1", "Edición 2"), "Realizaron evaluación"))
 knitr::kable(tab2)
 ```
 
