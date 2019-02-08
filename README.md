@@ -60,8 +60,6 @@ utilizando el paquete creado especialmente para ello. En tal sentido,
 cobra relevancia saber la cantidad de estudiantes que avanzaron por el
 camino de realizar los ejercicios y utilizar el paquete del curso.
 
-|           | Realizaron evaluación |
-| --------- | :-------------------- |
-| Edición 1 | 73%                   |
-| Edición 2 | 63%                   |
-| Edicion 3 | 75%                   |
+|                       | Curso 1 | Curso 2 | Curso 3 |
+| --------------------- | :------ | :------ | :------ |
+| Realizaron evaluación | 73%     | 63%     | 75%     |
