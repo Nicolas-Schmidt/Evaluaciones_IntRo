@@ -17,31 +17,38 @@ preguntas siguen la intensidad de la satisfacción. Cuanto mayor es el
 número en la respuesta, mayor es la satisfacción del estudiante sobre
 el aspecto del que se pregunta.
 
-### Primera edición del curso.
+### Primera edición del curso (2018).
 
-Al primer curso se anotaron 19 estudiante de los cuales 4 nunca
-concurrieron. Los 15 restantes completaron el curso. De estos 15
-estudiantes 12 completaron la evaluación del
-curso.
+En 2018 se editaron 3 cursos. Lo que se prsenta a continuacón son la
+evaluaciones en conjunto de todos los estudiantes de los tres cursos.
+Los estudiantes que completaron el curso fueron 42. De estos, 31
+completaron la
+evaluación.
 
 **Resultados**
 
 | Pregunta                                                                                   | Escala | media | min | max |
 | :----------------------------------------------------------------------------------------- | :----- | ----: | --: | --: |
-| ¿Cómo evalúa el local/salón donde se realizó el curso?                                     | 1 a 5  |  3.17 |   2 |   5 |
-| ¿Cómo evalúa el equipamiento tecnológico del local/salón utilizado en el curso?            | 1 a 5  |  3.92 |   2 |   5 |
-| ¿Cómo evaluaría el curso?                                                                  | 1 a 10 |  8.83 |   8 |  10 |
-| ¿Considera pertinentes los contenidos impartidos en el curso?                              | 1 a 5  |  4.67 |   4 |   5 |
-| ¿El curso aportó en su formación profesional, académica o laboral?                         | 1 a 5  |  4.83 |   4 |   5 |
-| ¿Las clases del curso evidenciaron preparación previa?                                     | 1 a 5  |  4.83 |   4 |   5 |
-| ¿El equipo docente articuló los distintos módulos del curso con coherencia?                | 1 a 5  |  4.83 |   4 |   5 |
-| ¿Los tiempos pedagógicos asignados a cada módulo fueron correctos?                         | 1 a 5  |  4.08 |   3 |   5 |
-| ¿El equipo docente utilizó adecuadamente los medios tecnológicos y materiales disponibles? | 1 a 5  |  4.83 |   4 |   5 |
-| ¿Se utilizaron/dispusieron materiales de apoyo adecuados para dictar el curso?             | 1 a 5  |  4.67 |   3 |   5 |
-| ¿Se definieron adecuadamente los términos y conceptos utilizados en el curso?              | 1 a 5  |  4.67 |   4 |   5 |
-| ¿Se utilizaron ejemplos útiles y pertinentes para ilustrar los conceptos teóricos?         | 1 a 5  |  4.42 |   3 |   5 |
-| ¿Hubo receptividad ante dudas e inquietudes de las/os estudiantes?                         | 1 a 5  |  4.92 |   4 |   5 |
+| ¿Cómo evalúa el local/salón donde se realizó el curso?                                     | 1 a 5  |  4.13 |   2 |   5 |
+| ¿Cómo evalúa el equipamiento tecnológico del local/salón utilizado en el curso?            | 1 a 5  |  4.32 |   2 |   5 |
+| ¿Cómo evaluaría el curso?                                                                  | 1 a 10 |  9.32 |   7 |  10 |
+| ¿Considera pertinentes los contenidos impartidos en el curso?                              | 1 a 5  |  4.68 |   3 |   5 |
+| ¿El curso aportó en su formación profesional, académica o laboral?                         | 1 a 5  |  4.61 |   3 |   5 |
+| ¿Las clases del curso evidenciaron preparación previa?                                     | 1 a 5  |  4.90 |   4 |   5 |
+| ¿El equipo docente articuló los distintos módulos del curso con coherencia?                | 1 a 5  |  4.87 |   4 |   5 |
+| ¿Los tiempos pedagógicos asignados a cada módulo fueron correctos?                         | 1 a 5  |  4.06 |   2 |   5 |
+| ¿El equipo docente utilizó adecuadamente los medios tecnológicos y materiales disponibles? | 1 a 5  |  4.87 |   4 |   5 |
+| ¿Se utilizaron/dispusieron materiales de apoyo adecuados para dictar el curso?             | 1 a 5  |  4.81 |   3 |   5 |
+| ¿Se definieron adecuadamente los términos y conceptos utilizados en el curso?              | 1 a 5  |  4.71 |   3 |   5 |
+| ¿Se utilizaron ejemplos útiles y pertinentes para ilustrar los conceptos teóricos?         | 1 a 5  |  4.58 |   3 |   5 |
+| ¿Hubo receptividad ante dudas e inquietudes de las/os estudiantes?                         | 1 a 5  |  4.94 |   4 |   5 |
 | ¿Los/as docentes dominan los contenidos del curso?                                         | 1 a 5  |  5.00 |   5 |   5 |
+
+Pregunta final: Voy a recomendarle este curso a colegas…
+
+| Si  | No | Ns/Nc |
+| :-- | :- | :---- |
+| 97% | 0% | 3%    |
 
 **Entrega de los ejercicios**
 
@@ -57,3 +64,4 @@ camino de realizar los ejercicios y utilizar el paquete del curso.
 | --------- | :-------------------- |
 | Edición 1 | 73%                   |
 | Edición 2 | 63%                   |
+| Edicion 3 | 75%                   |
