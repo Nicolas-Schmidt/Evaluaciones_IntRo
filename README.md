@@ -44,7 +44,7 @@ evaluación.
 | ¿Hubo receptividad ante dudas e inquietudes de las/os estudiantes?                         | 1 a 5  |  4.94 |   4 |   5 |
 | ¿Los/as docentes dominan los contenidos del curso?                                         | 1 a 5  |  5.00 |   5 |   5 |
 
-Pregunta final: Voy a recomendarle este curso a colegas…
+Pregunta final: **“Voy a recomendarle este curso a colegas…”**
 
 | Si  | No | Ns/Nc |
 | :-- | :- | :---- |

@@ -52,7 +52,7 @@ knitr::kable(tab)
 ```
 
 
-Pregunta final: Voy a recomendarle este curso a colegas...
+Pregunta final: __"Voy a recomendarle este curso a colegas..."__
 
 ```{r echo = FALSE}
 tab2 <-matrix(c("97%", "0%", "3%"), ncol = 3, dimnames = list( NULL, c("Si", "No", "Ns/Nc")))
