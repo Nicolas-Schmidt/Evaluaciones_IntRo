@@ -55,10 +55,10 @@ Pregunta final: **“Voy a recomendarle este curso a colegas…”**
 El curso tiene dos modalidades para transitarlo. Es posible que el
 estudiante solo quiera concurrir a las clases y obtrener un certificado
 de asistencia (al menos el 80% de las clases) o puede aprobar el curso
-realizando los ejerccios que están previstos en el curso y que se hacen
-utilizando el paquete creado especialmente para ello. En tal sentido,
-cobra relevancia saber la cantidad de estudiantes que avanzaron por el
-camino de realizar los ejercicios y utilizar el paquete del curso.
+realizando los ejerccios que están previstos que se hacen utilizando el
+paquete creado especialmente para ello. En tal sentido, cobra relevancia
+saber la cantidad de estudiantes que avanzaron por el camino de realizar
+los ejercicios y utilizar el paquete del curso.
 
 |                       | Curso 1 | Curso 2 | Curso 3 |
 | --------------------- | :------ | :------ | :------ |
